@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-admin/zuihou-admin-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-admin/zuihou-admin-repository" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-admin/zuihou-admin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-auth/zuihou-auth-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-auth/zuihou-auth-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-auth/zuihou-auth-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-auth/zuihou-auth-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-file" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-file/zuihou-file-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-file/zuihou-file-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-gateway/zuihou-gateway-ratelimit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-gateway/zuihou-gateway-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-msgs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-msgs/zuihou-msgs-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-backend/zuihou-msgs/zuihou-msgs-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-common/zuihou-autoconfigures" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-common/zuihou-autoconfigures/zuihou-autoconfigure-shiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-common/zuihou-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-common/zuihou-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-common/zuihou-starters" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-common/zuihou-starters/zuihou-starter-shiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-frontend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-frontend/zuihou-manage-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-service/zuihou-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-service/zuihou-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuihou-service/zuihou-zipkin" charset="UTF-8" />
+  </component>
+</project>
